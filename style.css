@@ -1,0 +1,139 @@
+﻿.logo {
+
+	margin-left: 45px;
+	margin-top:  30px;
+}
+
+ #menu-1  ul {
+	    font-size:14,67px;
+	    font-family: OpenSans;
+            margin-top:  30px;
+            margin-left: 45px;
+}
+
+
+ .move {
+
+            margin-top:  -277px;
+            margin-left: 301px;
+
+}
+
+
+
+#menu-1 ul li  {
+
+	       float: left;
+	       background-color: #515151;
+               display:inline-block;
+               text-align: center; }
+
+#menu-1 ul li:last-child  {
+
+	       float: left;
+	       background-color: #515151;
+               display:inline-block;
+               text-align: center;
+               width: 400px;
+               height: 36px;
+}
+
+
+ #menu-1 ul a {
+	      display:block;
+	      text-decoration:none;
+	      color:white;
+              padding: 10px 40px 10px 40px; }
+
+
+#menu-1 ul     a:hover {
+                background-color: #464646;
+                border-right:white solid 1px;
+                border-left:white solid 1px;
+		            }
+
+
+
+ #menu-2  ul {
+	    font-size:13,33px;
+	    font-family: OpenSans;
+            width: 200px;
+            margin-top:  120px;
+            margin-left: 45px;
+}
+#menu-2 ul li  {
+
+	             background-color: white;
+               border-top:grey solid 1px;
+               border-right:grey solid 1px;
+               border-left:grey solid 1px;
+
+}
+#menu-2 ul li:last-child
+                             {
+	           background-color: white;
+             border-bottom:grey solid 1px;
+
+
+}
+ #menu-2 ul a {
+	      display:block;
+	      text-decoration:none;
+        text-align: left;
+	      color:#515151;
+        padding: 15px 0px;
+
+
+	}
+#menu-2 ul  a:hover {
+                text-indent: 20px;
+                color: #515151;
+		            }
+
+.move1 {
+	    width: 670px;
+            margin-top:  15px;
+            margin-left: 310px;
+            color: grey;
+
+}
+
+#menu-3  ul {
+	    font-size:13,33px;
+	    font-family: Myriad Pro;
+            margin-top:  70px;
+            margin-left: 45px;
+}
+
+
+#menu-3 ul li  {
+
+	       float: left;
+	       background-color: #e1e1e1;
+               display:inline-block;
+               text-align: center;
+               }
+
+#menu-3 ul li:last-child  {
+
+	       float: left;
+	       background-color: #e1e1e1;
+               display:inline-block;
+               text-align: right;
+               width: 490px;
+               height: 23px;
+               padding-top:10px;
+}
+
+
+ #menu-3 ul a {
+	      display:block;
+	      text-decoration:none;
+	      color:#464646;
+              padding: 10px 30px 10px 30px; }
+
+
+#menu-3 ul     a:hover {
+                background-color: #white;
+
+		text-decoration: underline           }
