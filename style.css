@@ -2,19 +2,19 @@
     text-align: center;
     width: 1000px;
     margin: 0px auto;
-	background-color: #ffffff;
-  	height: 900px;
-	box-shadow: 0 0 10px rgba(0,0,0,.25);
+    background-color: #ffffff;
+    height: 900px;
+    box-shadow: 0 0 10px rgba(0,0,0,.25);
 }
 
 
 .logo {
     margin-left: -776px;
-	margin-top:  30px;
+    margin-top:  30px;
 }
 
 .menu-1 {
-	text-align: left;
+    text-align: left;
     font: 14px Verdana;
     letter-spacing : -.36em;
     font-size : 0;
