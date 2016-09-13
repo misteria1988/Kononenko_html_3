@@ -7,7 +7,6 @@
     box-shadow: 0 0 10px rgba(0,0,0,.25);
 }
 
-
 .logo {
     margin-left: -776px;
     margin-top:  30px;
@@ -18,34 +17,37 @@
     font: 14px Verdana;
     letter-spacing : -.36em;
     font-size : 0;
-	margin-top: 30px;
-	margin-left: 40px;
-	margin-right: 40px;
-	background-color: #515151;
+    margin-top: 30px;
+    margin-left: 40px;
+    margin-right: 40px;
+    background-color: #515151;
 }
+
  .menu-1  li {
     display : inline-block;
     letter-spacing: normal;
     font-size : 14px;
-	width: 100px;
-	height: 40px;
-	line-height: 40px;
-	padding-left: 40px;
+    width: 100px;
+    height: 40px;
+    line-height: 40px;
+    padding-left: 40px;
 }
+
 .menu-1 li:first-child{
-	width: 144px;
-	padding-left: 24px;
+    width: 144px;
+    padding-left: 24px;
 }
+
 .menu-1 li:nth-child(2)
 {
-	width: 50px;
-	padding-left: 24px;
-	padding-right: 24px;
+    width: 50px;
+    padding-left: 24px;
+    padding-right: 24px;
 }
+
 .menu-1 a {
-	dispay: block;
-	text-decoration:none;  
-	color: white; 
+    text-decoration:none;  
+    color: white; 
 }
 		
 .menu-1  li:hover {
@@ -56,15 +58,15 @@
 
 .menu-2  ul {
     float: left;
-	font-size: 13,33px;
-	font-family: OpenSans;
+    font-size: 13,33px;
+    font-family: OpenSans;
     margin-top:  50px;
-	margin-left: 40px;
+    margin-left: 40px;
     width: 200px;
 }
 
 .menu-2 ul li  {
-	background-color: white;
+    background-color: white;
     border-top:grey solid 1px;
     border-right:grey solid 1px;
     border-left:grey solid 1px;            
@@ -76,76 +78,74 @@
 }
  
 .menu-2 ul a {
-	display:block;    
-	text-decoration:none; 
+    display:block;    
+    text-decoration:none; 
     text-align: left;
     text-indent: 20px; 
-	color:#656363; 
+    color:#656363; 
     padding: 10px 0px;
 }
 
 .menu-2 ul  a:hover {
     text-indent: 40px; 
     color: #787878;
-	background-color: #f9f9f9;
+    background-color: #f9f9f9;
 }
 
 .move {
     float: right;
-	margin-right: 40px;
+    margin-right: 40px;
     margin-top: 50px;         
 }
 
 .move1 {
     float: right;
-	margin-right: 40px;
-	width: 650px;
+    margin-right: 40px;
+    width: 650px;
     margin-top:  30px;
     color: 2c2c2c;   
     text-align: left;  
     font-family: OpenSans;	
-	font-size: 13,33px;
-	line-height: 20px;
+    font-size: 13,33px;
+    line-height: 20px;
 }
 
 .menu-3 {
-	text-align: left;
-   	font: 13,33px Myriad Pro;
-	letter-spacing : -.36em;
+    text-align: left;
+    font: 13,33px Myriad Pro;
+    letter-spacing : -.36em;
     font-size : 0;
     margin-top:  730px;
-	margin-left: 40px;
-	margin-right: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
 }
 
 .menu-3 li  {
-	background-color: #e1e1e1;
+    background-color: #e1e1e1;
     display:inline-block; 
-   	font-size : 13,33px;
-	display : inline-block;
-	letter-spacing: normal;
+    font-size : 13,33px;
+    display : inline-block;
+    letter-spacing: normal;
     font-size : 14px;
-	width: 100px;
-	height: 30px;
-	line-height: 10px;
-	padding-left: 20px;
-
+    width: 100px;
+    height: 30px;
+    line-height: 10px;
+    padding-left: 20px;
 }
 
 .menu-3 li:last-child  {
-	background-color: #e1e1e1;
+    background-color: #e1e1e1;
     text-align: right;
-	padding-right: 20px;
+    padding-right: 20px;
     width: 400px;
-	font: 13,33px Myriad Pro;
-	line-height: 30px;
+    font: 13,33px Myriad Pro;
+    line-height: 30px;
 }
-               
-	   
+                        
 .menu-3 a {
-	display:block; 
-	text-decoration:none; 
-	color:#2c2c2c; 
+    display:block; 
+    text-decoration:none; 
+    color:#2c2c2c; 
     padding: 10px 30px 10px 30px; 
 }
 
